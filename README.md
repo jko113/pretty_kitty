@@ -1,8 +1,5 @@
 # Pretty Kitty
 
-### Creator
-Joshua Owens
-
 ### Description
 Pretty Kitty is a Pygame application that both calms and tantalizes the feline friend. At each turn, the player has the option to pet, feed or chase the protagonist kitty, and each action provokes a reaction and leads the player closer to game's end.
 
@@ -118,3 +115,6 @@ for key in all_prompts:
 ![Cute Kitty](https://raw.githubusercontent.com/jko113/pretty_kitty/master/images/cute_kitty.png)
 
 ![Bad Kitty](https://raw.githubusercontent.com/jko113/pretty_kitty/master/images/bad_kitty.png)
+
+### Creator
+Joshua Owens
