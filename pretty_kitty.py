@@ -37,7 +37,7 @@ def main():
 
     # set up screen, clock, fonts, caption
     screen = pygame.display.set_mode((width, height))
-    pygame.display.set_caption("Kitty Kat!")
+    pygame.display.set_caption("Pretty Kitty")
     clock = pygame.time.Clock()
     font = pygame.font.Font(None, 25)
     big_font = pygame.font.Font(None, 100)
