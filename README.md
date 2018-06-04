@@ -16,7 +16,7 @@ Pretty Kitty was designed to be fun, funny, and ever-so-slightly addictive. It i
 #### Logic
 Coding this game was a stimulating exercise in logic. Building the game honed my debugging skills by familiarizing me with various error messages, such as indentation mistakes or referencing variables before assignment.
 
-A significant logic struggle I overcame was modifying "global variables" within the scope of a function. Since excessive use of global variables is frowned upon, I aimed for the best practice and passed the objects I needed to modify as parameters. This resolved the local variable errors and, in my opinion, improved the overall integrity and portability of the code.
+A significant logic struggle I overcame was modifying "global variables" within the scope of a function. Since excessive use of global variables is frowned upon, I aimed for the best practice and passed the objects I needed to modify as parameters. This resolved the local variable errors and improved the overall integrity and portability of the code.
 
 Here is a function that passes dictionaries relevant to the main program:
 
